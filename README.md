@@ -7,3 +7,4 @@ SQL notes
 - Using Conversion Functions and Conditional Expressions
 - Reporting Aggregated Data Usnig the Group Functions
 - Displaying Data from Multiple Tables Using Joins
+- Using Subqueries to Solve Queries
